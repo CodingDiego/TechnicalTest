@@ -1,0 +1,6 @@
+{
+  "description": "Prueba Tecnica",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
